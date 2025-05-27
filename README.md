@@ -1,2 +1,2 @@
-# py.project
-This repo includes python projects:)
+Guessing letters to completed the word! 
+This repo includes python project:)
